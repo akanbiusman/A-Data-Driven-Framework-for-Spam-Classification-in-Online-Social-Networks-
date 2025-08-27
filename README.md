@@ -1,7 +1,5 @@
 # A Data-Driven Spam Detection in Online Social Networks
-
-# This project presents a data-driven machine learning framework for spam detection across Online Social Networks (OSNs) such as Twitter, Facebook, Instagram, and SMS platforms. 
-# It integrates multiple datasets, advanced preprocessing, and diverse machine learning models to improve spam classification accuracy and robustness.
+This project presents a data-driven machine learning framework for spam detection across Online Social Networks (OSNs) such as Twitter, Facebook, Instagram, and SMS platforms. It integrates multiple datasets, advanced preprocessing, and diverse machine learning models to improve spam classification accuracy and robustness.
 
 # Features
 
