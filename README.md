@@ -7,8 +7,8 @@ This project presents a data-driven machine learning framework for spam detectio
 - Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
 - Data balancing with SMOTE-ENN
 - Feature extraction using TF-IDF Vectorization
-- ML algorithms: Naïve Bayes, SVM, Random Forest, XGBoost, KNN
-- Evaluation metrics: Accuracy, Precision, Recall, F1-Score
+- ML algorithms: Naïve Bayes, SVM, Random Forest, XGBoost, KNN, etc
+- Evaluation metrics: Accuracy, Precision, Recall, F1-Score, etc
 - Data-driven system design for robust spam detection
 
 # Datasets Used
